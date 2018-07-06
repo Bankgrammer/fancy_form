@@ -1,0 +1,16 @@
+{
+  "name": "fancy_form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
